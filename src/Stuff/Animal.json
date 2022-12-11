@@ -1,0 +1,77 @@
+{
+  "quizfragen": [
+    {
+      "Frage": "Was ist 2+2",
+      "a": 1900,
+      "b": 4,
+      "c": 40,
+      "Antwort": "b"
+    },
+    {
+      "Frage": "Was ist 39+75",
+      "a": 114,
+      "b": 209,
+      "c": 96,
+      "Antwort": "a"
+    },
+    {
+      "Frage": "Was ist 555 + 196",
+      "a": 753,
+      "b": 689,
+      "c": 751,
+      "Antwort": "c"
+    },
+    {
+      "Frage": "Was ist 121 / 11",
+      "a": 14,
+      "b": 12,
+      "c": 11,
+      "Antwort": "c"
+    },
+    {
+      "Frage": "Was ist 56 / 8",
+      "a": 4,
+      "b": 7,
+      "c": 6,
+      "Antwort": "b"
+    },
+    {
+      "Frage": "Was ist 2*7",
+      "a": 14,
+      "b": 12,
+      "c": 21,
+      "Antwort": "a"
+    },
+    {
+      "Frage": "Was ist 16 * 5",
+      "a": 1900,
+      "b": 4,
+      "c": 40,
+      "Antwort": "b"
+    },
+    {
+      "Frage": "Was ist 70 - 40",
+      "a": 35,
+      "b": 40,
+      "c": 30,
+      "Antwort": "b"
+    },{
+      "Frage": "Was ist 587-638",
+      "a":-57,
+      "b": 4,
+      "c": -51,
+      "Antwort": "c"
+    },{
+      "Frage": "Was ist 26*3-39",
+      "a": 49,
+      "b": 78,
+      "c": 39,
+      "Antwort": "b"
+    }
+  ]
+}
+
+
+
+
+
